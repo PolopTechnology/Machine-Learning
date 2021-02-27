@@ -1,0 +1,31 @@
+linear regression NOTES:
+
+x is a independent variable. It can do whatever the fuck it wants.
+y is a dependent variable. It CANNOT do whatever the fuck it wants.
+
+let's imagine x is Time spent playing vidogames. or TSPV.
+and y is sleep time.
+
+the more x increases, the more y decreases. Since the more time you spent playing
+video games, the less time you have to do stuff like sleep.
+
+This is a NEGATIVE relationship, because y SUFFERS by x's increase.
+
+however let's define x and y again.
+
+this time x is eating. The more you eat the more full you are. so let's imagine
+y is how full you are.
+
+when x increases, y increases. since the more you eat the more full you are.
+however the LESS you eat, less full you are.
+
+so you probably already guessed.
+
+in Positive relationships, they are in the same odds. When x suffers, y suffers.
+When x thrives, y thrives.
+
+Opposite way in Negative relationships. When x suffers, y thrives.
+When x thrives, y suffers.
+
+That's basically the most basic form of linear regression.
+
