@@ -1,6 +1,15 @@
 # Machine-Learning
-Machine Learning Command Line Interfaces
 
-Examples of Machine Learning for 3 Languages: Java, Python and C++.
-Java and C++ yet to be added, however we have classification and cluster
-algorithms for the python section.
+### My Machine-Learning Algorithms!
+
+I hope you find good use to them. If I do something wrong,
+I make these algorithms with what I understood, so don't judge
+them too harshly. 
+
+Many Algorithms in Python,
+No Algos in C++ or Java.
+
+Good Luck!
+
+Most Recent Added Algorithm: Linear Regression Algorithm.
+
